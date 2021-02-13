@@ -41,11 +41,11 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 
 ### Usage:
 ```bash
-sudo apt update && apt upgrade -y && apt install git wget php unzip curl jq xsel -y && wget https://github.com/Balakurawa/ShellPhish/releases/download/ShellPhish_v2020/ShellPhish.zip && unzip ShellPhish.zip && cd ShellPhish && chmod +x * && bash shellphish.sh
+sudo apt update && apt upgrade -y && apt install git wget php unzip curl jq xsel -y && wget https://github.com/Balakurawa/ShellPhish/releases/download/ShellPhish_v2020/ShellPhish.zip && unzip ShellPhish.zip -d ShellPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
 
 or
 
-sudo apt install git wget php unzip curl jq xsel -y && wget https://github.com/Balakurawa/ShellPhish/releases/download/ShellPhish_v2020/ShellPhish.zip && unzip ShellPhish.zip && cd ShellPhish && chmod +x * && bash shellphish.sh
+sudo apt install git wget php unzip curl jq xsel -y && wget https://github.com/Balakurawa/ShellPhish/releases/download/ShellPhish_v2020/ShellPhish.zip && unzip ShellPhish.zip -d ShellPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
 
 ```
 
