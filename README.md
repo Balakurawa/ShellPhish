@@ -56,7 +56,7 @@ bash update.sh
 ```
 
 ### Note:
-**This is in development. If you find any problems than please report them to my Telegram Group. To work properly in Android you have to Turn On Mobile Data and Hotspot. Without Mobile Data and Hotspot sometimes it not generates Phishing URL.**
+**This is in development. To work properly in Android you have to Turn On Mobile Data and Hotspot. Without Mobile Data and Hotspot sometimes it not generates Phishing URL.**
 
 ## Legal disclaimer:
 ***Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
